@@ -163,6 +163,6 @@ Future work could include:
 
 The main project implementation is provided in the uploaded Jupyter Notebook export:
 
-`MOP_Final_html`
+`MOP_Final_.ipynb`
 
 The notebook contains the complete analysis, experiments, final model evaluation and Grad-CAM explainability.
