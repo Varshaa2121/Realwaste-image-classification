@@ -1,6 +1,3 @@
-# realwaste-image-classification
-Deep learning-based image classification of waste materials using transfer learning and MobileNetV2.
-
 # RealWaste Image Classification
 
 Deep learning-based image classification of waste materials using transfer learning and MobileNetV2.
